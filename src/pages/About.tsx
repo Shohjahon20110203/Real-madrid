@@ -5,7 +5,7 @@ const About: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Banner with Stadium Image */}
-      <div className="h-[60vh] relative bg-cover bg-center" style={{ backgroundImage: 'url(https://images.pexels.com/photos/41257/pexels-photo-41257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)' }}>
+      <div className="h-[60vh] relative bg-cover bg-center" style={{ backgroundImage: 'url(https://static01.nyt.com/athletic/uploads/wp/2023/07/04120738/GettyImages-466092953-scaled.jpg)' }}>
         <div className="absolute inset-0 bg-gradient-to-b from-[#0B1560]/70 to-[#0B1560]/80"></div>
         <div className="container mx-auto px-4 h-full flex items-center relative z-10">
           <div className="max-w-2xl">
@@ -116,14 +116,14 @@ const About: React.FC = () => {
               <div className="bg-[#FFB700] inline-flex rounded-full p-4 mb-4">
                 <Trophy className="h-8 w-8 text-[#0B1560]" />
               </div>
-              <h3 className="text-3xl font-bold mb-2">14</h3>
+              <h3 className="text-3xl font-bold mb-2">15</h3>
               <p className="text-gray-600">UEFA Champions League</p>
             </div>
             <div className="bg-white rounded-lg shadow-md overflow-hidden text-center p-6 transform transition duration-300 hover:shadow-xl hover:-translate-y-1">
               <div className="bg-[#FFB700] inline-flex rounded-full p-4 mb-4">
                 <Trophy className="h-8 w-8 text-[#0B1560]" />
               </div>
-              <h3 className="text-3xl font-bold mb-2">35</h3>
+              <h3 className="text-3xl font-bold mb-2">36</h3>
               <p className="text-gray-600">La Liga</p>
             </div>
             <div className="bg-white rounded-lg shadow-md overflow-hidden text-center p-6 transform transition duration-300 hover:shadow-xl hover:-translate-y-1">
@@ -137,7 +137,7 @@ const About: React.FC = () => {
               <div className="bg-[#FFB700] inline-flex rounded-full p-4 mb-4">
                 <Trophy className="h-8 w-8 text-[#0B1560]" />
               </div>
-              <h3 className="text-3xl font-bold mb-2">5</h3>
+              <h3 className="text-3xl font-bold mb-2">6</h3>
               <p className="text-gray-600">FIFA Club World Cup</p>
             </div>
           </div>
@@ -154,7 +154,7 @@ const About: React.FC = () => {
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/6168/hands-businessmen-entrepreneur-meeting-6168.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://static.independent.co.uk/2022/10/02/19/1ebdd648dfec573bd5316c836fedb6faY29udGVudHNlYXJjaGFwaSwxNjY0ODIwMDQ1-2.67176163.jpg" 
                   alt="Florentino Pérez" 
                   className="w-full h-full object-cover"
                 />
@@ -172,25 +172,25 @@ const About: React.FC = () => {
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/927022/pexels-photo-927022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://e0.365dm.com/25/05/1600x900/skysports-xabi-alonso-bayer_6910909.jpg?20250509154212" 
                   alt="Carlo Ancelotti" 
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-1">Carlo Ancelotti</h3>
+                <h3 className="text-xl font-bold mb-1">Xabi Alonso</h3>
                 <p className="text-[#0B1560] mb-3">Bosh murabbiy</p>
                 <p className="text-gray-600">
-                  Tajribali italyan murabbiy. Real Madrid bilan 2 Champions 
-                  Leagueni yutgan va 2021-yilda klubga qaytib keldi. 
-                  Uning boshchiligida klub La Liga va Champions Leagueda g'alabalarga erishdi.
+                  Tajribali ispan murabbiyi. Bayer Leverkusen bilan Bundes
+                  Leagueni yutgan va 2025-yilda klubga qaytib keldi. 
+                  Uning boshchiligida klub La Liga va Champions Leagueda g'alabalarga erishishi ko`zda tutilmoqda.
                 </p>
               </div>
             </div>
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/5615665/pexels-photo-5615665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://metro.co.uk/wp-content/uploads/2016/05/ad_207653753.jpg?quality=90&strip=all" 
                   alt="José Ángel Sánchez" 
                   className="w-full h-full object-cover"
                 />

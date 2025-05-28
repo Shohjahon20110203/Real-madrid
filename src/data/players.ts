@@ -109,4 +109,51 @@ export const players: Player[] = [
     nationality: "Avstriya",
     age: 32
   },
+  {
+    id: 13,
+    name: " Eder Militao",
+    position: "Himoyachi",
+    number: 3, 
+    image: "https://i.pinimg.com/736x/34/d9/7f/34d97f7ccb2f680503d70b827a0579fd.jpg",
+    nationality: "Braziliya",
+    age: 26
+  },
+  {
+    id: 14,
+    name: " Dani Carvajal",
+    position: "Himoyachi",
+    number: 2, 
+    image: "https://lejournaldureal.fr/wp-content/uploads/2024/09/real-madrid-cf-v-real-valladolid-cf-la-liga-ea-sports-2.jpg",
+    nationality: "Ispaniya",
+    age: 32
+  },
+  {
+    id: 15,
+    name: "Ferland Mendy",
+    position: "Himoyachi",
+    number: 23, 
+    image: "https://i.pinimg.com/736x/d5/31/e8/d531e894b0496070449549dcfc381eb2.jpg",
+    nationality: "Fransiya",
+    age: 29
+  },
+  {
+    id: 16,
+    name: "Fran Garcia",
+    position: "Himoyachi",
+    number: 20, 
+    image: "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250091175.webp",
+    nationality: "Ispaniya",
+    age: 24
+  },
+  {
+    id: 17,
+    name: "Endrick",
+    position: "Hujumchi",
+    number: 11,
+    image: "https://assets.laliga.com/squad/2024/t186/p577107/128x128/p577107_t186_2024_1_002_000.jpg",
+    nationality: "Braziliya",
+    age: 18
+  },
+  
+  
 ];
