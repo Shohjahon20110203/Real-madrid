@@ -82,14 +82,14 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-start space-x-3">
                 <Phone className="h-5 w-5 text-[#FFB700] mt-0.5" />
-                <span className="text-gray-300">+998 71 123 4567</span>
+                <span className="text-gray-300">+998 88 523 83 93</span>
               </div>
             </div>
           </div>
         </div>
         
         <div className="border-t border-gray-700 mt-10 pt-6 text-center text-gray-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} Real Madrid UZ. Barcha huquqlar himoyalangan.</p>
+          <p>&copy; {new Date().getFullYear()} Hala Madrid UZ. Barcha huquqlar himoyalangan.</p>
         </div>
       </div>
     </footer>

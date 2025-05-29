@@ -3,11 +3,11 @@ import { NewsItem } from '../types';
 export const newsItems: NewsItem[] = [
   {
     id: 1,
-    title: "Mbappé Real Madrid uchun debyut o'yinida hat-trik urdi",
-    summary: "Fransiyalik yulduz hujumchi Kylian Mbappé Real Madrid safida birinchi o'yinida ajoyib namoyish ko'rsatdi.",
+    title: "Xabi Alonso: Men odamlar jamoadan orqada qolishlarini va ko'rgan narsalarini yoqtirishlarini xohlayman",
+    summary: "Real Madrid qanchalik katta ekanligi, tarixi va bugungi kunimiz tufayli eng zo'r, dedi u Realmadrid telekanalida.",
     content: "Fransiyalik yulduz hujumchi Kylian Mbappé Real Madrid safida birinchi o'yinida ajoyib namoyish ko'rsatdi. U Real Madrid safiga Fransiya PSJ klubidan erkin agent sifatida o'tgan edi. Mbappé debyut o'yinida Espanyolga qarshi hat-trik urib, jamoadoshlari va murabbiylar tomonidan olqishlandi. Bu natija bilan Real Madrid mavsumni zo'r boshladi.",
-    image: "https://images.pexels.com/photos/41257/pexels-photo-41257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    date: "2025-07-20",
+    image: "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--a2d04080-ff8f-4947-b14a-e2ab29f6da1f/ND_ENTREVISTA_XABI_ALONSO_1PC9592.webp?preferwebp=true&width=1440",
+    date: "2025-05-29",
     category: "match"
   },
   {

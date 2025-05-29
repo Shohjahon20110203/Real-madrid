@@ -132,7 +132,7 @@ const News: React.FC = () => {
                   <p className="text-gray-600 mb-4">{news.summary}</p>
                   
                   <Link 
-                    to={`/news/${news.id}`} 
+                    to={`src/news/index.html`} 
                     className="text-[#0B1560] hover:text-[#FFB700] font-medium inline-flex items-center transition-colors"
                   >
                     Batafsil o'qish
